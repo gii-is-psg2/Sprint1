@@ -1,0 +1,32 @@
+project:
+  name: 'PSG2-2324-G7-71 '
+  owner: 'L7'
+  teamId: '71'
+  identities:
+    github:
+      url: 'https://github.com/gii-is-psg2/psg2-2324-psg2-2324-g7-71'
+  members:
+    member1:
+      name: 'Natalia'
+      surname: 'Olmo' 
+      githubUsername: 'nataliaaolmo'
+    member2:
+      name: 'Franco'
+      surname: 'DellAguila'
+      githubUsername: 'FrancoDellAguila'
+    member3:
+      name: 'Pablo Jesús'
+      surname: 'Castellanos'
+      githubUsername: 'Pablo-J-Castellanos'
+    member4:
+      name: 'Sergio'
+      surname: 'Pons'
+      githubUsername: 'sergiopons-1'
+    member5:
+      name: 'Tomás'
+      surname: 'Huecas'
+      githubUsername: 'tomihc123'
+    member6:
+      name: 'Alfonso'
+      surname: 'Márquez'
+      githubUsername: 'alfedu'
